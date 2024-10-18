@@ -8,7 +8,9 @@ This project is a desktop AI ChatBot built using Python, `ttkbootstrap` for the 
 - **Text Scrolling Support**: The text display area supports large messages with scrolling and the ability to handle dynamic responses.
 - **User Input Validation**: Ensures that empty inputs are not processed.
 - **Response Formatting**: User input and AI responses are styled with distinct colors to enhance readability.
+  
 ![Screenshot 2024-10-18 120626](https://github.com/user-attachments/assets/754ca34b-5feb-45f9-adc9-30f20fa7c2e9)
+
 ![Screenshot 2024-10-18 120638](https://github.com/user-attachments/assets/78675707-ebdd-4a9f-8220-b9e2a59cd968)
 
 ## Installation
