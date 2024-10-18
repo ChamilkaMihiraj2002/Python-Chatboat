@@ -26,18 +26,21 @@ venv\Scripts\activate     # For Windows
 Install the required dependencies:
 
 bash
-Copy code
-pip install -r requirements.txt
+2. Copy code
+```bash
+   pip install -r requirements.txt
+```
 Create an account with Google Generative AI and obtain an API key.
 
-Configure the API key:
+2. Configure the API key:
 
 Replace the api_key in the ai() function with your generated API key from Google Generative AI.
 Run the app:
 
-bash
+```bash
 Copy code
 python app.py
+```
 
 Usage
 Type your question or prompt into the entry field at the bottom.
@@ -49,9 +52,9 @@ google-generativeai: For accessing Google's Gemini 1.5 model and generating AI r
 os: Used for basic file handling and environment setup.
 You can install the dependencies using:
 
-
+```bash
 pip install ttkbootstrap google-generativeai
-
+```
 
 
 
